@@ -1,7 +1,7 @@
 {
   "name": "app-zap/phpframework-airbrake",
   "require": {
-    "app-zap/phpframework": ">=1.4.0",
+    "app-zap/phpframework": "dev-develop",
     "nodrew/php-airbrake": "1.0.0"
   },
   "autoload": {
